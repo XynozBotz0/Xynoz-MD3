@@ -51,9 +51,9 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: Xeon ','silver'))
-console.log(color('🐶 GITHUB: DGXeon ','silver'))
-console.log(color('🐶 WA NUMBER: +916909137213 ','silver'))
+console.log(color('\n🐶 YT CHANNEL: XynozBOTZ- ','silver'))
+console.log(color('🐶 GITHUB: Xynoz ','silver'))
+console.log(color('🐶 WA NUMBER: +6283839200413 ','silver'))
 console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
