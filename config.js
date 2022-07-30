@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283867137091,6283839200413'] //ur owner number
+global.owner = ['6283867137091'] //ur owner number
 global.ownername = "Ais Store"
 global.ytname = "YT: Xynoz" //ur yt chanel name
 global.socialm = "GitHub: Not " //ur github or insta name
@@ -56,7 +56,7 @@ global.author = "🦄Dream Guy Xynoz"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6283867137091] //ur owner tag
-global.ownernummenu = ['6283867137091, 6283839200413'] //ur owner number in menu and all
+global.ownernummenu = ['6283867137091'] //ur owner number in menu and all
 global.watermark = "Xynoz Bot Inc." //ur watermark
 global.botscript = "Chat XynozBOTZ Kak"
 global.linkz1 = "https://chat.whatsapp.com/DSJqfuttJwWBRH8EXj73v3"
