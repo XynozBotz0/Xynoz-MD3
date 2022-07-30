@@ -9410,12 +9410,12 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "Credit ©️",
+								"title": "INFO BOT-©️",
 								"rows": [
 									{
-										"title": "Thanks To ❤️",
-										"description": "Displays The List Of Credit Of The Bot !!",
-										"rowId": `${prefix}tqtt`
+										"title": "-SEWA BOT-",
+										"description": "List Sewa Bot",
+										"rowId": `${prefix}sewabot`
 									}
 								]
 							}
@@ -10941,14 +10941,24 @@ await XeonBotInc.send5ButImg(from, `╔═══════✪「 OTHER 」
 ╠ ${prefix}report [bug]
 ╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${websitex}`}},{"urlButton": {"displayText": "Script🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "Donate 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner 👤","id": 'owner'}}] )
 break
-case 'tqtt': 
+case 'sewabot': 
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
-reply(`Thanks to
-LORD BUDDHA
-Xeon (Me)
-My family
-And all friends who helped assemble this sexy script !!!`)
+reply(`*JASA SEWA BOT*
+-|> 2 Minggu : 5K
+-|> 1 Bulan : 10K
+-|> Permanen? Silahkan Chat Owner Kak
+
+*Jadi Bot & Jasa Run*
+-|> Jasa Run : 20K 1Bulan (sc sendiri)
+
+-|> Jadi Bot Xynoz : 
+2 Minggu 10K
+1 Bulan 30K
+Permanen 60K
+
+Minat Silahkan Hubungi Owner
+Ais Store wa.me/6283867137091 `)
 break
 default:
 if (budy.startsWith('=>')) {
